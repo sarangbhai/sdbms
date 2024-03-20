@@ -1,0 +1,32 @@
+.container {
+    width: 50%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.error {
+    color: red;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th, td {
+    border: 1px solid black;
+    padding: 8px;
+    text-align: left;
+}
+
+th {
+    background-color: #f2f2f2;
+}
+
+.navbar {
+    margin: auto;
+}
+
+ul {
+    list-style-type: none;
+}
